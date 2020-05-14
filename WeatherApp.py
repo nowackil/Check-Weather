@@ -1,6 +1,5 @@
 # Autor: Łukasz Nowacki vel banan
-# Data: 12.05.2020
-# Nazwa: Aplikacja do sprawdzania pogody
+# Data: 13.05.2020
 
 import tkinter as tk
 from tkinter import font
